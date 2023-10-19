@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+.head
+{
+    background-color:crimson;
+    padding: 20px;
+}
+.headname
+{
+    color: white;
+}
+.Body
+{
+    background-color:saddlebrown;
+    height: 500px;
+    padding: 20px;
+    
+    
+}
+.part
+{
+    display: flex;
+    padding: 10px;
+    margin-left: 40px;
+}
+.Mybtn
+{
+    background-color: blue;
+    width:200px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    
+}

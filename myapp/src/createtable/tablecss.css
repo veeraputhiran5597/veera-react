@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.formcss{
+    width: 40%;
+    background-color:violet;
+    padding: 20px;
+    height: 375px;
+}
+
+.tablecss
+{
+    background-color: aqua;
+    width: 60%;
+    padding: 30px;
+    height: 375px;
+}
+.mycell
+{
+    border: 1px solid brown;
+    width: 130px;
+    height: 30px;
+}
+
+input
+{
+    width: 50%;
+    height: 20px;
+    border:1.5px solid royalblue;
+    outline: none;
+    border-radius: 3px;
+    background-color: seashell;
+}
+.btndis
+{
+    padding: 3px;
+    background-color: #FFC0C7;
+    border-radius: 5px;
+    border:1px solid black;
+    color: darkblue;
+    
+}
+
+.empty
+{
+    display: none;
+}
+
+.vis{
+    border: 1px solid brown;
+    width: 130px;
+    height: 30px;
+}

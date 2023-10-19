@@ -1,0 +1,206 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .first1{
+    background-color:green;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+    
+  }
+  .first2{
+    background-color: red;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+    
+  }
+  .second1
+  {
+    background-color: yellow;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  }
+  
+  .second2
+  {
+    background-color: green;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  }
+  .thirdbox1
+  {
+    background-color: red;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  
+  }
+  .thirdbox2
+  {
+    background-color: green;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  
+  }
+  
+  .white1
+  {
+    height: 30px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+    
+  }
+  
+  .white2
+  {
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+    
+  }
+  
+  .child3la1{
+    background-color: red;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  
+  }
+  .child3la2{
+    background-color:green;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  
+  }
+  .child3la3
+  {
+    background-color:blue;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  
+  }
+  .mycomponent
+  {
+    
+    height: 250px;
+    display: flex;
+    width: 100%;
+  }
+  .firstcomponent
+  {
+    width: 33%;
+  }
+  
+  .violet{
+    background-color: violet;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  
+  }
+  .yellow3{
+  
+    background-color: yellow;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  
+  }
+  .white3
+  {
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+    
+  }
+  
+  /*Function component*/
+  
+  .firstfn1col
+  {
+    background-color: green;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  }
+  .firstfn2col
+  {
+    background-color: red;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  }
+  .firstfn3col
+  {
+    background-color: yellow;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  }
+  .firstfn4col
+  {
+    background-color: green;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  }
+  .firstfn5col
+  {
+    background-color: red;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  
+  }
+  .firstfn6col
+  {
+    background-color: green;
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  }
+  .firstfunfirstbox
+  {
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+  }
